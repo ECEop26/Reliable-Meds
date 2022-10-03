@@ -1,0 +1,328 @@
+h2{
+    text-align: center;
+  }
+  .sub-heading{
+    padding-bottom: 4%;
+    
+  
+  
+    
+  }
+  
+  .custom-nav{
+  
+    border-radius: 20px;
+    height: 80px;
+  }
+  .custom-search{
+    border-radius: 50px 0 0 50px ;
+    border:0;
+    margin-top: 0px;
+    margin-bottom: 10px;
+  
+  }
+  .nav-item{
+    font-family: 'Outfit';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 25px;
+  text-align: center;
+  color: black;
+  padding-right: 20px;
+  }
+  
+  .nav-link{
+      color: black;
+  }
+  .nav-link:hover{
+      background-color: #EF251F;
+  }
+  
+  .input-group{
+    margin-left: 300px;
+    padding-bottom: 50px;
+  }
+  .custom-sear{
+    border-radius: 20px;
+  }
+  
+  .login-button{
+    color: white;
+    background-color: #EF251F;
+    border-radius: 0px 10px 10px 0px;
+  }
+  
+  .signup-button{
+    border-color: #EF251F;
+  border-radius: 10px 0px 0px 10px;
+  }
+  #intro{
+    padding: 10% 15%
+  }
+  .intro{
+    background-image: url("images/docback.jpg");
+  }
+  
+  #about{
+    padding: 10% 15%;
+  
+  }
+  .about{
+    text-align: center;
+    font-family: 'Outfit';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 38px;
+  text-align: center;
+  letter-spacing: 0.05em;
+  
+  color: #000000;
+  }
+  
+  #workimg{
+    padding: 10% 15%;
+  
+  }
+  .work-img{
+    width: 60%;
+    margin-left: 294px;
+    padding-bottom: 7%;
+  }
+  #doctors{
+    padding: 10% 15%;
+  
+  }
+  .exp-img{
+    margin-right: 689px;
+    width: 100%;
+  }
+  .value-img{
+    width: 100%;
+  }
+  .location-search{
+    width: 15%;
+    
+  }
+  
+  
+  #location{
+    text-align: center;
+    border: solid;
+    padding: 3% 1%;
+    border-radius: 40px;
+    border-color: grey;
+    margin-left:auto;
+    margin-right: auto;
+    width: 80%;
+  
+  }
+  .location-bar{
+    padding-right: 20px;
+  
+  }
+  
+  
+  
+  textarea{
+    margin-left: 50px;
+    padding-left: 20px;
+    align-self: right;
+    border: solid;
+    border-color: red;
+    border-radius: 10px;
+    margin-bottom: 16px;
+  }
+  
+  .form-image{
+    height: 300px;
+    width: 400px;
+  }
+  table{
+    margin-top: 60px;
+  }
+  .lines1 {
+    position: absolute;
+  width: 698.08px;
+  height: 3.31px;
+  left: 408px;
+  top: 770px;
+  
+  }
+  .lines2{
+    position: absolute;
+  width: 751.08px;
+  height: 3.31px;
+  left: 374.15px;
+  top: 1295.2px;
+  }
+  
+  .lines3{
+    position: absolute;
+  width: 712.08px;
+  height: 3.31px;
+  left: 404.65px;
+  top: 1825.03px;
+  
+  }
+  .lines4{
+    
+  position: absolute;
+  width: 1057.65px;
+  height: 6.36px;
+  left: 230.65px;
+  top: 2615.03px;
+  }
+  #frame1{
+    
+  position: absolute;
+  width: 870.43px;
+  height: 141.63px;
+  left: 117.68px;
+  top: 276.9px;
+  
+  font-family: 'Optima';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 60px;
+  line-height: 69px;
+  
+  color: #B61C18;
+  
+  
+  }
+  
+  #frame2{
+    position: absolute;
+  width: 929px;
+  height: 74px;
+  left: 118px;
+  top: 428px;
+  
+  font-family: 'Outfit';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 38px;
+  
+  color: #000000;
+  
+  }
+  #hello{
+    position: absolute;
+  width: 1045.99px;
+  height: 824.12px;
+  left: 235.6px;
+  top: 3850.26px;
+  
+  }
+  #hello2{
+    position: absolute;
+  width: 892px;
+  height: 28px;
+  left: 312.59px;
+  top: 3996.68px;
+  
+  font-family: 'Outfit';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 28px;
+  /* identical to box height */
+  
+  text-align: center;
+  letter-spacing: 0.05em;
+  
+  color: #000000;
+  
+  }
+  #name{
+    box-sizing: border-box;
+  
+  position: absolute;
+  width: 422.77px;
+  height: 84.55px;
+  left: 750.32px;
+  top: 4109.6px;
+  
+  border: 1px solid #EF251F;
+  }
+  #email{
+    box-sizing: border-box;
+  
+  position: absolute;
+  width: 422.77px;
+  height: 84.55px;
+  left: 750.32px;
+  top: 4218.24px;
+  
+  border: 1px solid #EF251F;
+  }
+  
+  #querry{
+    box-sizing: border-box;
+  
+    position: absolute;
+    width: 422.77px;
+    height: 162.61px;
+    left: 750.32px;
+    top: 4326.47px;
+    
+    border: 1px solid #EF251F;
+    
+  }
+  #sub{
+    box-sizing: border-box;
+  
+  position: absolute;
+  width: 227.65px;
+  height: 65.04px;
+  left: 650.02px;
+  top: 4520.28px;
+  
+  background: #EF251F;
+  border: 1px solid #EF251F;
+  }
+  
+  #self{
+    position: absolute;
+  width: 217px;
+  height: 50px;
+  left: 650.19px;
+  top: 3929.35px;
+  
+  font-family: 'Outfit';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 50px;
+  text-align: center;
+  letter-spacing: 0.05em;
+  
+  color: #000000;
+  
+  }
+  #mine{
+    position: absolute;
+  width: 509px;
+  height: 35px;
+  right: 500px;
+  top: 3500px;
+  
+  font-family: 'Outfit';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 35px;
+  text-align: center;
+  
+  color: #000000;
+  }
+  #hell{
+    position: absolute;
+  width: 1333.2px;
+  height: 174.51px;
+  right:100px;
+  top: 3600px;
+  }
